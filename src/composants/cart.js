@@ -27,6 +27,7 @@ const Cart = props => {
         </div>
         <h1 className="titleh1bis">{props.title}</h1>
         <p className="text">{props.text}</p>
+        <p className="text">{props.text2}</p>
       </div>
     </div>
   );
